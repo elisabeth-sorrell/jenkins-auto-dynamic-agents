@@ -1,0 +1,6 @@
+{"service":
+  {"name": "agent1",
+   "tags": ["agent"],
+   "port": 22
+  }
+}
